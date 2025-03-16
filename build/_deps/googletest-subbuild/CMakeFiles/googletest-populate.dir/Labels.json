@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/2d8c187bf67b2517fe79b83ef1aa6c8c/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/d9011826b452f2b47bae119435c506eb/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

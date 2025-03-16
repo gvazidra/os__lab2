@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/2d8c187bf67b2517fe79b83ef1aa6c8c/googletest-populate.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/d9011826b452f2b47bae119435c506eb/googletest-populate-complete.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-build.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-configure.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-download.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-install.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-mkdir.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-patch.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-test.rule
+C:/uni2/OS/OS_lab2/build/_deps/googletest-subbuild/CMakeFiles/60bf5c75506a10cfb7f68f99bd038041/googletest-populate-update.rule
